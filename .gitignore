@@ -1,0 +1,7 @@
+.hypothesis/
+.pytest_cache/
+env/
+__pycache__/
+.env
+main_old.py
+.DS_Store
